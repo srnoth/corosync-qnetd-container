@@ -1,0 +1,1 @@
+# corosync-qnetd-container
